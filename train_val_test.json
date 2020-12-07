@@ -1,6 +1,6 @@
 {
     "train": [
-			"TCGA-A7-A13E-01Z-00-DX1.png",
+	    "TCGA-A7-A13E-01Z-00-DX1.png",
             "TCGA-A7-A13F-01Z-00-DX1.png",
             "TCGA-B0-5711-01Z-00-DX1.png",
             "TCGA-HE-7128-01Z-00-DX1.png",
@@ -14,13 +14,13 @@
             "TCGA-KB-A93J-01A-01-TS1.png"
     ],
 	"val": [
-			"TCGA-AR-A1AK-01Z-00-DX1.png",
+	    "TCGA-AR-A1AK-01Z-00-DX1.png",
             "TCGA-HE-7129-01Z-00-DX1.png",
             "TCGA-49-4488-01Z-00-DX1.png",
             "TCGA-G9-6363-01Z-00-DX1.png"
     ],
 	"test": [
-			"TCGA-AR-A1AS-01Z-00-DX1.png",
+	    "TCGA-AR-A1AS-01Z-00-DX1.png",
             "TCGA-E2-A1B5-01Z-00-DX1.png",
             "TCGA-E2-A14V-01Z-00-DX1.png",
             "TCGA-HE-7130-01Z-00-DX1.png",
