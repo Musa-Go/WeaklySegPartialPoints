@@ -56,5 +56,5 @@ python setup.py install
 * Put the original images in the folder *./data/MO/images*放原图 and instance labels in the folder *./data/MO/labels_instance*放mask,名字后面带上*_labels*
 * 在 *./data/MO/labels_point*里面放用mask生成的点图,名字后面带上 *_label_point*
 * Specify the image names of train, val, test sets in the json file under *./data/MO*
-* Set the training parameters in ```code_detection/options.py``` and ```code_seg/options.py```
+* Set the training parameters in ```code_detection/options.py``` and ```code_seg/options.py```   run.sh中的ratio只是写文件名的，真正训练的时候需要使用的ratio要在两个options里面改
 * Run the script ```run.sh``` for detection and segmentation
